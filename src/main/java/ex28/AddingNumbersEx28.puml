@@ -1,0 +1,11 @@
+@startuml
+class App {
+
+    + int : i
+    + double[] : numbers
+    + double[] : sum
+    + main(String[] args)
+    + sum(int i, double[] numbers, double sum)
+
+}
+@enduml
